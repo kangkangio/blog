@@ -52,7 +52,7 @@ params:
     safari_pinned_tab: "<link / abs url>"
 
   label:
-    text: ""
+    text: " "
     icon: images/logo-full.png
     iconHeight: 35
 
