@@ -1,4 +1,4 @@
-baseURL: ''
+baseURL: 'https://kangkangio.github.io/blog/'
 languageCode: zh-cn
 title: KangKang
 paginate: 7
@@ -52,8 +52,8 @@ params:
     safari_pinned_tab: "<link / abs url>"
 
   label:
-    text: "KangKang"
-    icon: /images/logo-full.png
+    text: ""
+    icon: images/logo-full.png
     iconHeight: 35
 
   # profile-mode
